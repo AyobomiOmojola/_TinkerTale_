@@ -24,19 +24,19 @@ Below is the list of all genres of stories written in TinkerTale:
   # Features
 
   GENERAL:
-  - Regulation of content in users homepage i.e rendering of 'G' rated stories for Non-Authenticated and Authenticated users below the age of 18 and display of 'G' and 'R' rated stories for Authenticated users above the age of 18, for authenticated users, stories displayed are filtered on the basis of the genres they are interested in as indicated in their userprofile
-  - Display of Top 10 Favorite and Latest stories also with stories by users you follow
-  - Creation of stories with their content rating cumpolsorily added by the authors
-  - A detail page for for each story that displays a recomendation of authors whose genre of stories written are similiar to those that the request user is intersted in
-  - Users can like, dislike, comment of stories, they also can edit their stories
-  - Users can archive stories
-  - Users can follow and unfollow other users, they can also retrieve a list of their followers and of those they follow
-  - Signing-up, Signing-in and Register of Users
-  - Creation and Updating of Userprofiles
-  - Display of Userprofiles with stories they have liked and written
+- Regulation of content in users homepage i.e rendering of 'G' rated stories for Non-Authenticated and Authenticated users below the age of 18 and display of 'G' and 'R' rated stories for Authenticated users above the age of 18, for authenticated users, stories displayed are filtered on the basis of the genres they are interested in as indicated in their userprofile
+- Display of Top 10 Favorite and Latest stories also with stories by users you follow
+- Creation of stories with their content rating cumpolsorily added by the authors
+- A detail page for for each story that displays a recomendation of authors whose genre of stories written are similiar to those that the request user is intersted in
+- Users can like, dislike, comment of stories, they also can edit their stories
+- Users can archive stories
+- Users can follow and unfollow other users, they can also retrieve a list of their followers and of those they follow
+- Signing-up, Signing-in and Register of Users
+- Creation and Updating of Userprofiles
+- Display of Userprofiles with stories they have liked and written
 
   STORY CHALLENGE:
-  - Users can submit stories for say a biweekly challenge with the highest voted stories elevated to a prestigious list; The Emerald List
+- Users can submit stories for say a biweekly challenge with the highest voted stories elevated to a prestigious list; The Emerald List
 
 
 # Installation and Usage
