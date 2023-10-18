@@ -32,7 +32,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['tinkertale.up.railway.app','web-production-cf3b.up.railway.app','127.0.0.1']
+ALLOWED_HOSTS = ['tinkertale.up.railway.app','web-production-e3a7.up.railway.app','127.0.0.1']
 
 CORS_ALLOWED_ORIGINS = [
     'https://tinkertale.up.railway.app',
