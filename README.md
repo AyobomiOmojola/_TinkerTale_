@@ -1,3 +1,3 @@
 # TinkerTale
-Deployed Live API Documentation here: https://proassist.up.railway.app/docs/
+Deployed Live API Documentation here: https://tinkertale.up.railway.app/docs/
 
