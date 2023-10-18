@@ -42,41 +42,33 @@ Below is the list of all genres of stories written in TinkerTale:
 # Installation and Usage
 1. Clone the repository
 
-``` $ git clone https://github.com/AyobomiOmojola/ProAssist.git ```
+``` $ git clone https://github.com/AyobomiOmojola/_TinkerTale_.git ```
 
-3. Comment out the production PostgreSQL database in the settings file and replace with SQLlite for use in development
+2. Comment out the production PostgreSQL database in the settings file and replace with SQLlite for use in development 
    
-5. Repeat the above step also for redis and have a redis docker container running on your local machine
-   
-7. Create and activate a virtual environment for this project
+3. Create and activate a virtual environment for this project
 
 ``` $ python -m venv venv ```
 
 ``` $ source venv/bin/activate ```
 
-6. Install project dependencies
+4. Install project dependencies
 
 ``` $ pip install -r requirements.txt ```
 
-8. Run database migrations
+5. Run database migrations
    
 ``` $ py manage.py migrate ```
 
-10. Create superuser to access the admin dashboard
+6. Create superuser to access the admin dashboard
     
 ``` $ py manage.py createsuperuser ```
 
-12. Run the development server
+7. Run the development server
     
 ``` $ py manage.py runserver ```
 
-13. Access the live API documentation at ```http://127.0.0.1:8000/docs```
-    
-14. Where USERNAME = Username of the user you want to chat with and TOKEN = Your Login Token;
-    
-Hence access the chat server at ```http://127.0.0.1:8000/USERNAME/?token=TOKEN```
-
-(You could register and login users and follow the url guide above to correctly load their chat screens on say two different browser tabs)
+8. Access the live API documentation at ```http://127.0.0.1:8000/docs```
 
 # Authors
 ProAssist is developed and maintained by Ayo Omojola
