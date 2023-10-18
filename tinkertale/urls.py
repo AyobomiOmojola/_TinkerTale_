@@ -10,7 +10,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="TinkerTale API",
         default_version='v1',
-        description="A REST API that provides robust capabilities for integration with webapps centred around story-telling.",
+        description="A REST API that provides robust capabilities for integration with webapps centered around story-telling.",
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
