@@ -24,7 +24,7 @@ Below is the list of all genres of stories written in TinkerTale:
   # Features
 
   GENERAL:
-- Regulation of content in users homepage i.e rendering of 'G' rated stories for Non-Authenticated and Authenticated users below the age of 18 and display of 'G' and 'R' rated stories for Authenticated users above the age of 18, for authenticated users, stories displayed are filtered on the basis of the genres they are interested in as indicated in their userprofile
+- Regulation of content in users homepage i.e rendering of 'G' rated stories for Non-Authenticated and Authenticated users below the age of 18 and display of 'G' and 'R' rated stories for Authenticated users above the age of 18, for Authenticated users, stories displayed are filtered on the basis of the genres they are interested in as indicated in their userprofile
 - Display of Top 10 Favorite and Latest stories also with stories by users you follow
 - Creation of stories with their content rating compulsorily added by the authors
 - A detail page for each story that displays a recomendation of authors whose genre of stories written are similiar to those that the request user is interested in
