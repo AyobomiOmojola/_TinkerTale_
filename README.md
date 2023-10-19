@@ -3,7 +3,7 @@ Deployed Live API Documentation here: https://tinkertale.up.railway.app/docs/
 
 TinkerTale is a REST API that offers amazing possibilities for webapps that are dedicated to story telling. It provides features like age-based restrictions on the content users can view, a storytelling competition where the highest voted stories are elevated to a prestigious list and a variety of other features like archiving stories, restriction of stories for non authenticated users and many more.
 
-The stories created by users are under two categories: 'G' for General View(For readers below the age of 18) and 'R' for Restricted(For readers above the age of 18)
+The stories created by users are under two categories: 'G' for General View (For readers below the age of 18) and 'R' for Restricted (For readers above the age of 18)
 
 Below is the list of all genres of stories written in TinkerTale:
 - Fiction
