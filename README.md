@@ -72,4 +72,4 @@ Below is the list of all genres of stories written in TinkerTale:
 8. Access the live API documentation at ```http://127.0.0.1:8000/docs```
 
 # Authors
-ProAssist is developed and maintained by Ayo Omojola
+TinkerTale is developed and maintained by Ayo Omojola
