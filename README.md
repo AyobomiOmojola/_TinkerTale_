@@ -30,7 +30,7 @@ Below is the list of all genres of stories written in TinkerTale:
 - A detail page for each story that displays a recommendation of authors whose genre of stories written are similiar to those that the request user is interested in
 - Users can like, dislike and comment on stories, they can also edit their stories
 - Users can archive stories
-- Users can follow and unfollow other users, they can also retrieve a list of their followed users and who they are following
+- Users can follow and unfollow other users, they can also retrieve a list of their followed users and who they follow
 - Signing-up, Signing-in and Logging-out of Users
 - Creation and Updating of Userprofiles
 - Display of Userprofiles with stories they have liked and written
